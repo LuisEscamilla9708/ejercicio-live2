@@ -40,5 +40,4 @@ async function fetchAnswer() {
   }
 }
 
-// Asociar evento al botón
 button.addEventListener('click', fetchAnswer);
